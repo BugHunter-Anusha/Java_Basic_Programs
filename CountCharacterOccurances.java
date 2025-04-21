@@ -2,6 +2,7 @@ package Java_Basic_Programs;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
+//Question : Count the character occurances in the string
 public class CountCharacterOccurances {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
